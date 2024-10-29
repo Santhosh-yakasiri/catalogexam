@@ -7,3 +7,8 @@ In the following project we are implementing polyonmial based lagrangian functio
 
 From the following schema of Lagrangian coordinates we emphasize to calculate constant "C" from the polynomial based logits function over f(x) = log(k) where k is the predictor variable over x
 
+Run the following commands for the index file
+npm install
+npm start
+node -v
+npm -v
